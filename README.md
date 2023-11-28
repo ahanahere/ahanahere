@@ -16,3 +16,11 @@ idk what I'm doing here 😂 but ok lol
 | --- | --- | --- | --- |
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=ahanahere&bg_color=00000000&color=008bf5&line=000000&point=403d3d&area=true&hide_border=truecard_width=85)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+
+<div align="center">
+	
+ [![GitHub followers](https://img.shields.io/github/followers/TheCleverIdiott.svg?style=social&label=Follow)](https://github.com/TheCleverIdiott?tab=followers)
+ 
+<img src ="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/bottom.svg">
+	
+</div>
