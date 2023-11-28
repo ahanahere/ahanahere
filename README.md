@@ -19,7 +19,7 @@ idk what I'm doing here 😂 but ok lol
 
 <div align="center">
 	
- [![GitHub followers](https://img.shields.io/github/followers/TheCleverIdiott.svg?style=social&label=Follow)](https://github.com/TheCleverIdiott?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/ahanahere.svg?style=social&label=Follow)](https://github.com/ahanahere?tab=followers)
  
 <img src ="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/bottom.svg">
 	
