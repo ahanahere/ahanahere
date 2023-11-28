@@ -1,5 +1,7 @@
 idk what I'm doing here 😂 but ok lol
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <div align="center">
  
@@ -24,3 +26,5 @@ idk what I'm doing here 😂 but ok lol
 <img src ="https://github.com/TheCleverIdiott/TheCleverIdiott/blob/main/assets/bottom.svg">
 	
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
