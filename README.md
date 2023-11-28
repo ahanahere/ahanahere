@@ -1,3 +1,6 @@
+idk what I'm doing here 😂 but ok lol
+
+
 <div align="center">
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&width=25&theme=nord&no-bg=true)
